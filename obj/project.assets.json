@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/rodrigo/Documents/git/personal/dotnet-sample-api/sample-api/sample-api.csproj",
+      "projectUniqueName": "/home/rodrigo/Documents/git/personal/dotnet-sample-api/sample-api.csproj",
       "projectName": "sample-api",
-      "projectPath": "/home/rodrigo/Documents/git/personal/dotnet-sample-api/sample-api/sample-api.csproj",
+      "projectPath": "/home/rodrigo/Documents/git/personal/dotnet-sample-api/sample-api.csproj",
       "packagesPath": "/home/rodrigo/.nuget/packages/",
-      "outputPath": "/home/rodrigo/Documents/git/personal/dotnet-sample-api/sample-api/obj/",
+      "outputPath": "/home/rodrigo/Documents/git/personal/dotnet-sample-api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/rodrigo/.nuget/NuGet/NuGet.Config"
