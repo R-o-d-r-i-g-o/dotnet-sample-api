@@ -4,6 +4,7 @@ WORKDIR /app
 
 COPY . ./
 RUN dotnet restore dotnet-sample-api.sln && \
+    dotnet test dotnet-sample-api.Test/dotnet-sample-api.Test.csproj && \
     dotnet publish dotnet-sample-api.sln -c Release -o out
 
 # publish
