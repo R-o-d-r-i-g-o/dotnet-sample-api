@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "llpnKC0Afow=",
+  "dgSpecHash": "jJWxz6ekXTM=",
   "success": true,
   "projectFilePath": "/home/rodrigo/Documents/git/personal/dotnet-sample-api/sample-api.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,14 @@
     "/home/rodrigo/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "/home/rodrigo/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
     "/home/rodrigo/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "/home/rodrigo/.nuget/packages/xunit/2.9.0/xunit.2.9.0.nupkg.sha512",
+    "/home/rodrigo/.nuget/packages/xunit.abstractions/2.0.3/xunit.abstractions.2.0.3.nupkg.sha512",
+    "/home/rodrigo/.nuget/packages/xunit.analyzers/1.15.0/xunit.analyzers.1.15.0.nupkg.sha512",
+    "/home/rodrigo/.nuget/packages/xunit.assert/2.9.0/xunit.assert.2.9.0.nupkg.sha512",
+    "/home/rodrigo/.nuget/packages/xunit.core/2.9.0/xunit.core.2.9.0.nupkg.sha512",
+    "/home/rodrigo/.nuget/packages/xunit.extensibility.core/2.9.0/xunit.extensibility.core.2.9.0.nupkg.sha512",
+    "/home/rodrigo/.nuget/packages/xunit.extensibility.execution/2.9.0/xunit.extensibility.execution.2.9.0.nupkg.sha512",
+    "/home/rodrigo/.nuget/packages/xunit.runner.visualstudio/2.8.2/xunit.runner.visualstudio.2.8.2.nupkg.sha512",
     "/home/rodrigo/.nuget/packages/microsoft.netcore.app.ref/8.0.6/microsoft.netcore.app.ref.8.0.6.nupkg.sha512",
     "/home/rodrigo/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512",
     "/home/rodrigo/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.6/microsoft.netcore.app.host.linux-x64.8.0.6.nupkg.sha512"

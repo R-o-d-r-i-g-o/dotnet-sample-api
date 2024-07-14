@@ -1,3 +1,5 @@
+using Xunit;
+
 namespace dotnet_sample_api.Test;
 
 public class UnitTest1
