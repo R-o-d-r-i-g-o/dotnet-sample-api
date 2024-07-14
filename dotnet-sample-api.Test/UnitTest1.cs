@@ -1,11 +1,9 @@
-using Xunit;
-
 namespace dotnet_sample_api.Test;
 
-public class UnitTest1
+public class WeatherForecastTests
 {
     [Fact]
-    public void Test1()
+    public void GET_retrieves_weather_forecast()
     {
 
     }
